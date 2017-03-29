@@ -17,4 +17,4 @@
   - Packages used are ggplot2, data.table, caret, xgboost, e1071, tidyr, dplyr.
 
 ### Model Training
- - I started with the default XGBoost parameters and then after reading through the [Parameter Tuning](http://xgboost.readthedocs.io/en/latest/how_to/param_tuning.html) guide from the XGBoost website I was able to achieve a score of .94 on the leaderboard that put me in the top 90 out of nearly 3000 submissions.
+ - I started with the default XGBoost parameters and then after reading through the [Parameter Tuning](http://xgboost.readthedocs.io/en/latest/how_to/param_tuning.html) guide from the XGBoost website I was able to achieve a score of .94 that put me in the top 3% on the leaderboard.
