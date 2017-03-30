@@ -9,6 +9,7 @@
 - The test set contains 354951 observations.
 - Participants have to predict loan_status variable which is 0 (not a defaulter) or 1 (defaulter).
 - Evaluation criteria - AUC-ROC score.
+- Dataset can be downloaded from [here](https://he-s3.s3.amazonaws.com/media/hackathon/machine-learning-challenge-one/bank-fears-loanliness/898ce544-0-MLChallenge_1Datac63af4e.zip)
 
 ### Approach
  - Language used for the solution is R.
