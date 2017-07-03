@@ -21,5 +21,5 @@
  - Packages used are ggplot2, data.table, caret, xgboost, e1071, tidyr, dplyr.
 
 ### Model Training
- - Model 6 and 7 contain 2 and 3 way feature interactions from XGBFi
- - The final model is and ensemble of all the above models and is again trained on XGBoost.
+ - Model 6 and 7 contain 2 and 3 way feature interactions respectively from XGBFi
+ - The final model is an ensemble of model 1 to 7 and is again trained on XGBoost.
